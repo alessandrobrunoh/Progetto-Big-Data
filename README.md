@@ -1,4 +1,4 @@
 # Progetto Big Data:
 ### Collaboratori:
 - Alessandro Bruno
-- Alessandra Di Bella in Live Share
+- Alessandra Di Bella
